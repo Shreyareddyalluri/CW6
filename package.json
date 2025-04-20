@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://github.com/Shreyareddyalluri.github.io/CW6.git",
-  
   "dependencies": {
     "bootstrap": "^5.2.3",
     "react": "^18.2.0",
@@ -17,9 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-"deploy":   "gh-pages -d build"
-
-
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
