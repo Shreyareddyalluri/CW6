@@ -2,7 +2,8 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shreyareddyalluri.github.io/cw6-assignment",
+  "homepage": "https://github.com/Shreyareddyalluri.github.io/CW6.git",
+  
   "dependencies": {
     "bootstrap": "^5.2.3",
     "react": "^18.2.0",
