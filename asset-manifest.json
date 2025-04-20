@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Shreyareddyalluri.github.io/CW6.git/static/css/main.74c67a22.css",
-    "main.js": "/Shreyareddyalluri.github.io/CW6.git/static/js/main.a934a5db.js",
-    "index.html": "/Shreyareddyalluri.github.io/CW6.git/index.html",
-    "main.74c67a22.css.map": "/Shreyareddyalluri.github.io/CW6.git/static/css/main.74c67a22.css.map",
-    "main.a934a5db.js.map": "/Shreyareddyalluri.github.io/CW6.git/static/js/main.a934a5db.js.map"
+    "main.css": "/CW6/static/css/main.74c67a22.css",
+    "main.js": "/CW6/static/js/main.a934a5db.js",
+    "index.html": "/CW6/index.html",
+    "main.74c67a22.css.map": "/CW6/static/css/main.74c67a22.css.map",
+    "main.a934a5db.js.map": "/CW6/static/js/main.a934a5db.js.map"
   },
   "entrypoints": [
     "static/css/main.74c67a22.css",
